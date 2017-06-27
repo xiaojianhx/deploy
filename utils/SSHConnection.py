@@ -1,4 +1,4 @@
-#! /usr/lib/pathon
+#! /usr/bin/python
 
 import os
 import paramiko
